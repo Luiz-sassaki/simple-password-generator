@@ -10,11 +10,6 @@ Our password generator is an efficient and practical tool to quickly create stro
 * ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 
 
- ## Password Generator in Action
-
-<B>INITIAL SCREEN</B><br>
-<img src="images/gerador-senha.png" alt="tela inicial">
-
 
 ## Developer
 
