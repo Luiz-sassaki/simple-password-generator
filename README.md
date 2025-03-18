@@ -11,6 +11,15 @@ Our password generator is an efficient and practical tool to quickly create stro
 
 
 
+
+ ## The code in practice
+
+<B>HOME SCREEN</B><br>
+
+<img src="/key.png" alt="home screen">
+
+
+
 ## Developer
 
 <a href="https://github.com/Luiz-sassaki"/>
